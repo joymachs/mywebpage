@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-![![gb](./assets/img/folder-ruby-GBStudio-icon.png)](./another-page.html).
+![![gb](https://github.com/joymachs/mywebpage/blob/master/assets/img/folder-ruby-GBStudio-icon.png)](./another-page.html).
 
 There should be whitespace between paragraphs.
 
